@@ -1,2 +1,7 @@
 [2026-01-26 13:36:43,589 ] 97 werkzeug - WARNING -  * Debugger is active!
 [2026-01-26 13:36:43,593 ] 97 werkzeug - INFO -  * Debugger PIN: 332-219-181
+[2026-01-26 13:37:42,100 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:42] "[35m[1mGET / HTTP/1.1[0m" 500 -
+[2026-01-26 13:37:42,380 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2026-01-26 13:37:42,440 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2026-01-26 13:37:42,789 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:42] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=JzPGSBCFyiYehImcbIK5 HTTP/1.1" 200 -
+[2026-01-26 13:37:43,049 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
