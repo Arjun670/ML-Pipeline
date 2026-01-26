@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: ML-Pipeline
+Version: 1.0
+Summary: ML project
+Author: Arjun Sharma
+Author-email: shrma.arjunn@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
