@@ -5,3 +5,4 @@
 [2026-01-26 13:37:42,440 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
 [2026-01-26 13:37:42,789 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:42] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=JzPGSBCFyiYehImcbIK5 HTTP/1.1" 200 -
 [2026-01-26 13:37:43,049 ] 97 werkzeug - INFO - 127.0.0.1 - - [26/Jan/2026 13:37:43] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2026-01-26 16:55:54,139 ] 97 werkzeug - INFO -  * Detected change in 'D:\\ML EtoE\\ML-Pipeline\\src\\components\\data_ingestion.py', reloading

@@ -1,0 +1,5 @@
+[2026-01-26 16:55:54,719 ] 97 werkzeug - WARNING -  * Debugger is active!
+[2026-01-26 16:55:54,722 ] 97 werkzeug - INFO -  * Debugger PIN: 332-219-181
+[2026-01-26 16:55:54,722 ] 97 werkzeug - INFO -  * Debugger PIN: 332-219-181
+[2026-01-26 16:58:05,250 ] 97 werkzeug - INFO -  * Detected change in 'd:\\ml etoe\\ml-pipeline\\src\\components\\data_ingestion.py', reloading
+[2026-01-26 16:58:05,251 ] 97 werkzeug - INFO -  * Detected change in 'D:\\ML EtoE\\ML-Pipeline\\src\\components\\data_ingestion.py', reloading
